@@ -33,3 +33,17 @@ Defines a `Square` class that inherits from `Rectangle`.
 
 ### 6-square.js
 Defines a `Square` class that inherits from the previous `Square` class and adds a `charPrint()` method.
+
+## Additional Tasks
+
+### 7-occurrences.js
+Defines a function that counts the number of occurrences of an element in a list.
+
+### 8-esrever.js
+Defines a function that returns a reversed copy of a list without using the built-in `reverse()` method.
+
+### 9-logme.js
+Defines a function that prints the number of arguments previously printed followed by the current argument.
+
+### 10-converter.js
+Defines a closure that converts a base-10 number to another specified base.
