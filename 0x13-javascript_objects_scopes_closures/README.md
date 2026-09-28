@@ -47,3 +47,26 @@ Defines a function that prints the number of arguments previously printed follow
 
 ### 10-converter.js
 Defines a closure that converts a base-10 number to another specified base.
+
+## Additional Tasks
+
+### 7-occurrences.js
+Returns the number of occurrences of an element in a list.
+
+### 8-esrever.js
+Returns a reversed version of a list without using the built-in reverse method.
+
+### 9-logme.js
+Prints the number of arguments already printed followed by the current argument.
+
+### 10-converter.js
+Returns a function that converts a base 10 number to another specified base.
+
+### 100-map.js
+Uses map to create a new array where each value is multiplied by its index.
+
+### 101-sorted.js
+Creates a dictionary that groups user IDs according to their number of occurrences.
+
+### 102-concat.js
+Concatenates the contents of two files into a destination file.
