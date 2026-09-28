@@ -34,3 +34,9 @@ Gets the contents of a webpage and saves the response body to a file.
 
 ### 6-completed_tasks.js
 Computes the number of completed tasks for each user from an API.
+
+### 100-starwars_characters.js
+Prints all characters from a Star Wars movie using the Star Wars API.
+
+### 101-starwars_characters.js
+Prints all characters from a Star Wars movie in the same order as the characters list returned by the films API.
